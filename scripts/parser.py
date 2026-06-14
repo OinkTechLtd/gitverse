@@ -11,53 +11,50 @@ PLAYLIST_URLS = [
 ]
 
 def get_real_program(channel_name):
-    """Реальный поиск программы через открытые API или парсинг"""
-    search_url = f"https://tv.mail.ru/search/?q={channel_name}"
-    headers = {"User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) Chrome/114.0.0.0 Safari/537.36"}
+    """Улучшенный поиск программы по нескольким источникам"""
+    headers = {"User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36"}
     
+    # Источник 1: tv.mail.ru
     try:
+        search_url = f"https://tv.mail.ru/search/?q={channel_name}"
         resp = requests.get(search_url, headers=headers, timeout=5)
-        # Ищем блок текущей передачи и время
-        # Формат на сайте обычно: <span class="p-programms__item__time">20:00</span>
-        times = re.findall(r'(\d{2}:\d{2})', resp.text)
-        titles = re.findall(r'class="p-channels__item__info__title">(.*?)<', resp.text)
-        
+        # Ищем через регулярки более гибко
+        titles = re.findall(r'"p-channels__item__info__title">(.*?)<', resp.text)
         if titles:
-            current_title = titles[0]
-            # Вычисляем прогресс если нашли время
-            progress = 50 # Дефолт
-            if len(times) >= 2:
-                start_str = times[0]
-                now = datetime.now()
-                start_time = now.replace(hour=int(start_str.split(':')[0]), minute=int(start_str.split(':')[1]))
-                # Упрощенный расчет прогресса
-                elapsed = (now - start_time).seconds / 60
-                progress = min(max(int((elapsed / 60) * 100), 10), 95) # От 10% до 95%
-            
-            return current_title, progress
+            print(f"[OK] Нашел на Mail.ru: {titles[0]}")
+            return titles[0], 45
     except:
         pass
-    return "Прямой эфир", 0
+
+    # Источник 2: Яндекс (упрощенный парсинг заголовка)
+    try:
+        y_url = f"https://yandex.ru/search/?text=программа+передач+{channel_name}+сейчас"
+        resp = requests.get(y_url, headers=headers, timeout=5)
+        if "сейчас в эфире" in resp.text.lower():
+            print(f"[OK] Нашел упоминание на Яндексе для {channel_name}")
+            return "В эфире: Смотрите сейчас", 30
+    except:
+        pass
+
+    return "Прямой эфир", 10
 
 def parse_m3u(url):
+    print(f"[*] Сканирую плейлист: {url}")
     channels = []
     try:
         response = requests.get(url, timeout=10)
-        lines = response.text.split('\n')
-        current = {}
-        for line in lines:
-            line = line.strip()
-            if line.startswith('#EXTINF:'):
-                name = re.search(r',(.+)$', line)
-                current['name'] = name.group(1).strip() if name else "Unknown"
-                logo = re.search(r'tvg-logo="([^"]+)"', line)
-                if logo: current['logo'] = logo.group(1)
-            elif line.startswith('http'):
-                current['url'] = line
-                channels.append(current)
-                current = {}
+        # Улучшенная регулярка для M3U
+        matches = re.findall(r'#EXTINF:.*?,(.*?)\n(http.*?)(?:\n|$)', response.text, re.DOTALL)
+        for name, link in matches:
+            channels.append({
+                'name': name.strip(),
+                'url': link.strip()
+            })
+        print(f"[+] Найдено каналов в списке: {len(channels)}")
         return channels
-    except: return []
+    except Exception as e:
+        print(f"[!] Ошибка плейлиста {url}: {e}")
+        return []
 
 def main():
     print("🤖 Робот сканирует сеть...")
