@@ -1,5 +1,5 @@
 <?xml version='1.0' encoding='utf-8'?>
-<tv date="20260614201307 +0300" source-info-name="live-programm.oinktech.ltd" generator-info-name="OinkTech EPG Robot v2">
+<tv date="20260614201512 +0300" source-info-name="live-programm.oinktech.ltd" generator-info-name="OinkTech EPG Robot v2">
   <channel id="perviy">
     <display-name lang="ru">Первый канал</display-name>
     <url>https://zabava-htlive.cdn.ngenix.net/hls/CH_1TVSD/variant.m3u8</url>
@@ -725,9 +725,6 @@
   <programme start="20260614182000 +0300" stop="20260614200000 +0300" channel="perviy">
     <title lang="ru">Бывшая с того света</title>
   </programme>
-  <programme start="20260614183000 +0300" stop="20260614191500 +0300" channel="perviy">
-    <title lang="ru">Загадка для Веры (с.3) [16+]</title>
-  </programme>
   <programme start="20260614183000 +0300" stop="20260614200000 +0300" channel="perviy">
     <title lang="ru">Худ. фильм</title>
   </programme>
@@ -737,14 +734,8 @@
   <programme start="20260614185000 +0300" stop="20260614195000 +0300" channel="perviy">
     <title lang="ru">Анықтаймыз. Руслан Өтепбаймен</title>
   </programme>
-  <programme start="20260614190000 +0300" stop="20260614191500 +0300" channel="perviy">
-    <title lang="ru">Լուրեր21</title>
-  </programme>
   <programme start="20260614190000 +0300" stop="20260614210000 +0300" channel="perviy">
     <title lang="ru">До Ре. Uma2rman [12+]</title>
-  </programme>
-  <programme start="20260614190000 +0300" stop="20260614191500 +0300" channel="perviy">
-    <title lang="ru">ექსპონატით მოყოლილი საქართველოს ისტორია-სეზ-5</title>
   </programme>
   <programme start="20260614190000 +0300" stop="20260614193000 +0300" channel="perviy">
     <title lang="ru">Новини 11 каналу</title>
@@ -1196,9 +1187,6 @@
   <programme start="20260614153000 +0300" stop="20260615011000 +0300" channel="ctc">
     <title lang="ru">Склифосовский. 4-й сезон. 13-я - 24-я серии.</title>
   </programme>
-  <programme start="20260614181500 +0300" stop="20260614191500 +0300" channel="ctc">
-    <title lang="ru">Молодежка. 36 с.</title>
-  </programme>
   <programme start="20260614184900 +0300" stop="20260614194500 +0300" channel="ctc">
     <title lang="ru">Молодёжка. Серия 36.</title>
   </programme>
@@ -1499,9 +1487,6 @@
   <programme start="20260614233000 +0300" stop="20260615004500 +0300" channel="tnt">
     <title lang="ru">Шоу Воли</title>
   </programme>
-  <programme start="20260614171500 +0300" stop="20260614191500 +0300" channel="5tv">
-    <title lang="ru">Գ/Ֆ "Սուիթուոթեր"</title>
-  </programme>
   <programme start="20260614181500 +0300" stop="20260614192000 +0300" channel="5tv">
     <title lang="ru">Участок (Настоящее убийство)</title>
   </programme>
@@ -1621,9 +1606,6 @@
   </programme>
   <programme start="20260614233500 +0300" stop="20260615004000 +0300" channel="tvc">
     <title lang="ru">Забытый ангел (с.4) [16+]</title>
-  </programme>
-  <programme start="20260614190000 +0300" stop="20260614191500 +0300" channel="o_tv">
-    <title lang="ru">Новости</title>
   </programme>
   <programme start="20260614190000 +0300" stop="20260614194000 +0300" channel="o_tv">
     <title lang="ru">Едем с Артемом Рындевичем. Попали в зону отчуждения в Беларуси и увидели Чернобыль</title>
@@ -2296,9 +2278,6 @@
   </programme>
   <programme start="20260614230000 +0300" stop="20260615000000 +0300" channel="rtvi">
     <title lang="ru">Большой ньюзток</title>
-  </programme>
-  <programme start="20260614172500 +0300" stop="20260614191500 +0300" channel="tbkino">
-    <title lang="ru">Джентльмены [18+]</title>
   </programme>
   <programme start="20260614191500 +0300" stop="20260614210000 +0300" channel="tbkino">
     <title lang="ru">Starперцы [16+]</title>
@@ -3083,20 +3062,11 @@
   <programme start="20260614235926 +0300" stop="20260615000451 +0300" channel="ani_com">
     <title lang="ru">Тайна сундука (1982)</title>
   </programme>
-  <programme start="20260614185500 +0300" stop="20260614191500 +0300" channel="nickel">
-    <title lang="ru">Барбапапа и семья! 1 с-н 24 с. Барбазо не может сказать нет / Двойник</title>
-  </programme>
   <programme start="20260614185526 +0300" stop="20260614191650 +0300" channel="nickel">
     <title lang="ru">BARBAPAPA - One Big Happy Family!</title>
   </programme>
   <programme start="20260614185647 +0300" stop="20260614192429 +0300" channel="nickel">
     <title lang="ru">SpongeBob Schwammkopf (с.25)</title>
-  </programme>
-  <programme start="20260614190000 +0300" stop="20260614191500 +0300" channel="nickel">
-    <title lang="ru">Casa Loud Sezonul 8 - Episodul 801</title>
-  </programme>
-  <programme start="20260614190200 +0300" stop="20260614191500 +0300" channel="nickel">
-    <title lang="ru">Мой шумный дом. Лауды в осаде / Вся жизнь в альбоме.</title>
   </programme>
   <programme start="20260614191000 +0300" stop="20260614193000 +0300" channel="nickel">
     <title lang="ru">Пинки Малинки. 18 с. На взводе / Сорняки</title>
