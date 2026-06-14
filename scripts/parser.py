@@ -64,7 +64,6 @@ def main():
     raw_channels = []
     for url in PLAYLIST_URLS: raw_channels.extend(parse_m3u(url))
     
-    # Фильтруем дубликаты
     seen = set()
     unique_channels = []
     for c in raw_channels:
@@ -73,7 +72,7 @@ def main():
             seen.add(c['name'].lower())
 
     final_data = []
-    for ch in unique_channels[:30]: # Берем топ 30
+    for ch in unique_channels[:30]:
         print(f"[*] Парсим эфир: {ch['name']}")
         title, progress = get_real_program(ch['name'])
         final_data.append({
@@ -84,10 +83,12 @@ def main():
             "progress": progress
         })
 
-    # Путь относительно корня репозитория для GitHub Actions
-    data_dir = 'live-programm/data'
-    if not os.path.exists('live-programm'):
-        data_dir = 'data' # Если запускаем локально из папки проекта
+    # Ультимативный поиск пути
+    base_path = os.getcwd()
+    if os.path.exists(os.path.join(base_path, 'live-programm')):
+        data_dir = os.path.join(base_path, 'live-programm', 'data')
+    else:
+        data_dir = os.path.join(base_path, 'data')
         
     os.makedirs(data_dir, exist_ok=True)
     file_path = os.path.join(data_dir, 'schedule.json')
