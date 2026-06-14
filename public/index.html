@@ -94,11 +94,18 @@
 <script>
     async function loadChannels() {
         try {
-            const response = await fetch('data/schedule.json');
+            // Пробуем загрузить данные. Добавляем timestamp чтобы избежать кэша
+            const response = await fetch(`/data/schedule.json?t=${Date.now()}`);
+            if (!response.ok) throw new Error('JSON не найден');
             const channels = await response.json();
 
             const feed = document.getElementById('feed');
-            feed.innerHTML = ''; // Очищаем
+            if (channels.length === 0) {
+                feed.innerHTML = '<div style="padding:20px">Каналы загружаются... Попробуйте обновить через минуту.</div>';
+                return;
+            }
+            
+            feed.innerHTML = ''; 
             
             channels.forEach((ch, index) => {
                 const section = document.createElement('div');
@@ -116,19 +123,23 @@
                 `;
                 feed.appendChild(section);
                 
-                // Инициализация плеера для каждого канала
-                // Используем cdnplayerjs (предполагаемый синтаксис)
-                if (window.CDNPlayer) {
-                    new CDNPlayer({
-                        container: `#player-${index}`,
-                        file: ch.url,
-                        autoplay: index === 0, // Автоплей только для первого
-                        muted: true
-                    });
-                }
+                // Инициализация плеера
+                setTimeout(() => {
+                    if (window.CDNPlayer) {
+                        new CDNPlayer({
+                            container: `#player-${index}`,
+                            file: ch.url,
+                            autoplay: index === 0,
+                            muted: true,
+                            width: '100%',
+                            height: '100%'
+                        });
+                    }
+                }, 500);
             });
         } catch (e) {
             console.error("Ошибка загрузки:", e);
+            document.getElementById('feed').innerHTML = `<div style="padding:20px">Ошибка загрузки данных. Проверьте, что робот создал файл data/schedule.json</div>`;
         }
     }
 

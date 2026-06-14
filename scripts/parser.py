@@ -84,10 +84,17 @@ def main():
             "progress": progress
         })
 
-    os.makedirs('data', exist_ok=True)
-    with open('data/schedule.json', 'w', encoding='utf-8') as f:
+    # Путь относительно корня репозитория для GitHub Actions
+    data_dir = 'live-programm/data'
+    if not os.path.exists('live-programm'):
+        data_dir = 'data' # Если запускаем локально из папки проекта
+        
+    os.makedirs(data_dir, exist_ok=True)
+    file_path = os.path.join(data_dir, 'schedule.json')
+    
+    with open(file_path, 'w', encoding='utf-8') as f:
         json.dump(final_data, f, ensure_ascii=False, indent=4)
-    print("✅ Данные обновлены без имитаций.")
+    print(f"✅ Данные сохранены в {file_path}")
 
 if __name__ == "__main__":
     main()
