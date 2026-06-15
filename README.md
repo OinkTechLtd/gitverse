@@ -17,3 +17,11 @@ A lightweight utility for previewing HTML files hosted on GitVerse and BitBucket
 - Node.js (v16 or later)
 - npm or yarn
 
+
+## 🤝 Contributing
+
+Contributions to enhance this static website are welcome. Feel free to open an issue or submit a pull request.
+
+## 📄 License
+
+This project is open-source and available under the [MIT License](https://github.com/OinkTechLtd/gitverse/blob/main/LICENSE).
