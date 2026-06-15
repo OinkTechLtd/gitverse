@@ -1,0 +1,6 @@
+{
+  "name": "live-programm",
+  "build": "npm install",
+  "start": "node scripts/serve.js",
+  "port": 3000
+}

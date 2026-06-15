@@ -2,9 +2,11 @@
   "name": "live-programm",
   "version": "1.0.0",
   "description": "TV расписание + прямой эфир — LiveПрограмма by OinkTech",
+  "main": "scripts/serve.js",
   "scripts": {
-    "build": "node scripts/copy-static.js",
-    "start": "node scripts/serve.js"
+    "start":  "node scripts/serve.js",
+    "build":  "node scripts/copy-static.js",
+    "postinstall": "node scripts/copy-static.js"
   },
   "engines": {
     "node": ">=18.0.0"

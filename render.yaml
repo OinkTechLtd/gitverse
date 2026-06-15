@@ -2,7 +2,7 @@ services:
   - type: web
     name: live-programm
     env: node
-    buildCommand: node scripts/copy-static.js
+    buildCommand: npm install
     startCommand: node scripts/serve.js
     envVars:
       - key: PORT
