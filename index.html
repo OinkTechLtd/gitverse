@@ -3,8 +3,11 @@
 <head>
 <meta charset="UTF-8"/>
 <meta name="viewport" content="width=device-width, initial-scale=1.0, viewport-fit=cover"/>
-<title>📺 LiveПрограмма — ТВ расписание онлайн</title>
-<meta name="description" content="Расписание телепрограмм в прямом эфире. Смотри что идёт сейчас на ТВ."/>
+<title>📺 LiveПрограмма — Актуальное ТВ расписание онлайн</title>
+<meta name="description" content="Смотрите актуальное расписание телепередач онлайн. Прямой эфир всех каналов, программа передач на сегодня и неделю. Удобный поиск и просмотр."/>
+<meta name="keywords" content="тв программа, расписание каналов, прямой эфир, смотреть тв онлайн, epg, телепрограмма на сегодня"/>
+<meta name="robots" content="index, follow"/>
+<link rel="canonical" href="https://oinktechltd.github.io/live-programm/"/>
 <link rel="preconnect" href="https://fonts.googleapis.com"/>
 <link href="https://fonts.googleapis.com/css2?family=Russo+One&family=Inter:wght@400;500;600;700&display=swap" rel="stylesheet"/>
 <style>
@@ -339,7 +342,7 @@ const PLAYERJS_URLS = [
 ];
 
 // Прокси для стримов
-const PROXY = "https://secure-272717.tatnet.app/";
+const PROXY = "https://secure-272717.tatnet.app"; // Убрали слеш в конце для корректной склейки
 
 // CDN Zabava (без прокси)
 const ZABAVA_CDN = "zabava-htlive.cdn.ngenix.net";
@@ -398,7 +401,7 @@ function parseM3U(txt){
       const logo = l.match(/tvg-logo="([^"]+)"/)?.[1] || "";
       meta = {name, id, logo};
     } else if(l && !l.startsWith("#") && meta.name){
-      const streamUrl = needsProxy(l) ? PROXY + l.replace(/^https?:\/\//,"") : l;
+      const streamUrl = needsProxy(l) ? PROXY + "/" + l.replace(/^https?:\/\//,"") : l;
       // Сопоставляем с каналами по имени/id
       const chId = matchChannel(meta.name, meta.id);
       if(chId && !streams[chId]){

@@ -1,5 +1,5 @@
 <?xml version='1.0' encoding='utf-8'?>
-<tv date="20260615075302 +0300" source-info-name="live-programm.oinktech.ltd" generator-info-name="OinkTech EPG Robot v2">
+<tv date="20260615060026 +0300" source-info-name="live-programm.oinktech.ltd" generator-info-name="OinkTech EPG Robot v2">
   <channel id="perviy">
     <display-name lang="ru">Первый канал</display-name>
     <url>https://zabava-htlive.cdn.ngenix.net/hls/CH_1TVSD/variant.m3u8</url>
@@ -713,20 +713,107 @@
   <channel id="hd_231">
     <display-name lang="ru">БОКС ТВ ПЛЮС HD</display-name>
   </channel>
+  <programme start="20260615000000 +0300" stop="20260615060000 +0300" channel="perviy">
+    <title lang="ru">Программа не предоставлена каналом</title>
+  </programme>
+  <programme start="20260615040000 +0300" stop="20260615052500 +0300" channel="perviy">
+    <title lang="ru">П@utina</title>
+  </programme>
+  <programme start="20260615041500 +0300" stop="20260615060000 +0300" channel="perviy">
+    <title lang="ru">Время покажет [16+]</title>
+  </programme>
+  <programme start="20260615044000 +0300" stop="20260615052000 +0300" channel="perviy">
+    <title lang="ru">Кадр из жизни (Timur Check – музыкант)</title>
+  </programme>
+  <programme start="20260615044000 +0300" stop="20260615050400 +0300" channel="perviy">
+    <title lang="ru">Миссии (Возврат)</title>
+  </programme>
+  <programme start="20260615044500 +0300" stop="20260615054000 +0300" channel="perviy">
+    <title lang="ru">ტ/ს ჰადსონი და რექსი (U)</title>
+  </programme>
+  <programme start="20260615050000 +0300" stop="20260615050200 +0300" channel="perviy">
+    <title lang="ru">ՀՀ օրհներգ</title>
+  </programme>
+  <programme start="20260615050000 +0300" stop="20260615053000 +0300" channel="perviy">
+    <title lang="ru">Люди РФ [12+]</title>
+  </programme>
   <programme start="20260615050000 +0300" stop="20260615090000 +0300" channel="perviy">
     <title lang="ru">Телеканал "Доброе утро" [0+]</title>
   </programme>
   <programme start="20260615050000 +0300" stop="20260615070000 +0300" channel="perviy">
     <title lang="ru">Ва-Банк</title>
   </programme>
+  <programme start="20260615050000 +0300" stop="20260615053000 +0300" channel="perviy">
+    <title lang="ru">Только новости</title>
+  </programme>
+  <programme start="20260615050000 +0300" stop="20260615060000 +0300" channel="perviy">
+    <title lang="ru">Две зимы и три лета</title>
+  </programme>
+  <programme start="20260615050000 +0300" stop="20260615052000 +0300" channel="perviy">
+    <title lang="ru">Главный эфир</title>
+  </programme>
+  <programme start="20260615050000 +0300" stop="20260615060000 +0300" channel="perviy">
+    <title lang="ru">Музыка на Первом музыкальном</title>
+  </programme>
+  <programme start="20260615050000 +0300" stop="20260615052500 +0300" channel="perviy">
+    <title lang="ru">Новости</title>
+  </programme>
+  <programme start="20260615050000 +0300" stop="20260615060000 +0300" channel="perviy">
+    <title lang="ru">Время покажет [16+]</title>
+  </programme>
+  <programme start="20260615050200 +0300" stop="20260615053000 +0300" channel="perviy">
+    <title lang="ru">Համերգ</title>
+  </programme>
+  <programme start="20260615050400 +0300" stop="20260615052700 +0300" channel="perviy">
+    <title lang="ru">Миссии. 3 с.</title>
+  </programme>
   <programme start="20260615051500 +0300" stop="20260615070000 +0300" channel="perviy">
     <title lang="ru">Время покажет [16+]</title>
+  </programme>
+  <programme start="20260615052000 +0300" stop="20260615054500 +0300" channel="perviy">
+    <title lang="ru">Вибрации (Кахон)</title>
+  </programme>
+  <programme start="20260615052000 +0300" stop="20260615053000 +0300" channel="perviy">
+    <title lang="ru">Боевое дежурство</title>
+  </programme>
+  <programme start="20260615052500 +0300" stop="20260615053500 +0300" channel="perviy">
+    <title lang="ru">Новости</title>
+  </programme>
+  <programme start="20260615052500 +0300" stop="20260615061500 +0300" channel="perviy">
+    <title lang="ru">Модный приговор [0+]</title>
+  </programme>
+  <programme start="20260615052700 +0300" stop="20260615055100 +0300" channel="perviy">
+    <title lang="ru">Миссии. 4 с.</title>
   </programme>
   <programme start="20260615053000 +0300" stop="20260615070000 +0300" channel="perviy">
     <title lang="ru">Նոնստոպ․ Տեսահոլովակներ</title>
   </programme>
+  <programme start="20260615053000 +0300" stop="20260615054500 +0300" channel="perviy">
+    <title lang="ru">Новости 24 [12+]</title>
+  </programme>
+  <programme start="20260615053000 +0300" stop="20260615060000 +0300" channel="perviy">
+    <title lang="ru">Фонари. Утро</title>
+  </programme>
+  <programme start="20260615053000 +0300" stop="20260615054000 +0300" channel="perviy">
+    <title lang="ru">Новости экономики</title>
+  </programme>
+  <programme start="20260615053500 +0300" stop="20260615063500 +0300" channel="perviy">
+    <title lang="ru">Köremiz</title>
+  </programme>
   <programme start="20260615054000 +0300" stop="20260615071500 +0300" channel="perviy">
     <title lang="ru">მ/ფ მოულოდნელად (12)</title>
+  </programme>
+  <programme start="20260615054000 +0300" stop="20260615060000 +0300" channel="perviy">
+    <title lang="ru">Мнение клуба</title>
+  </programme>
+  <programme start="20260615054500 +0300" stop="20260615064500 +0300" channel="perviy">
+    <title lang="ru">Эпоха в истории [12+]</title>
+  </programme>
+  <programme start="20260615054500 +0300" stop="20260615060500 +0300" channel="perviy">
+    <title lang="ru">Истина дороже (Мутагенез)</title>
+  </programme>
+  <programme start="20260615055100 +0300" stop="20260615061200 +0300" channel="perviy">
+    <title lang="ru">Миссии (Ответы)</title>
   </programme>
   <programme start="20260615060000 +0300" stop="20260615070000 +0300" channel="perviy">
     <title lang="ru">Фонари. Утро</title>
@@ -734,11 +821,26 @@
   <programme start="20260615060000 +0300" stop="20260615070000 +0300" channel="perviy">
     <title lang="ru">Две зимы и три лета</title>
   </programme>
+  <programme start="20260615060000 +0300" stop="20260615060500 +0300" channel="perviy">
+    <title lang="ru">Гимн</title>
+  </programme>
   <programme start="20260615060000 +0300" stop="20260615080000 +0300" channel="perviy">
     <title lang="ru">Музыка на Первом музыкальном</title>
   </programme>
+  <programme start="20260615060000 +0300" stop="20260615063000 +0300" channel="perviy">
+    <title lang="ru">День в событиях</title>
+  </programme>
+  <programme start="20260615060000 +0300" stop="20260615061500 +0300" channel="perviy">
+    <title lang="ru">Новости</title>
+  </programme>
   <programme start="20260615060000 +0300" stop="20260615070000 +0300" channel="perviy">
     <title lang="ru">Большая игра [16+]</title>
+  </programme>
+  <programme start="20260615060500 +0300" stop="20260615063500 +0300" channel="perviy">
+    <title lang="ru">Альтернатива (Виноградный сахар)</title>
+  </programme>
+  <programme start="20260615060500 +0300" stop="20260615063000 +0300" channel="perviy">
+    <title lang="ru">Главный эфир</title>
   </programme>
   <programme start="20260615061200 +0300" stop="20260615065800 +0300" channel="perviy">
     <title lang="ru">Тайны планеты. 3 с.</title>
@@ -749,11 +851,20 @@
   <programme start="20260615061500 +0300" stop="20260615080000 +0300" channel="perviy">
     <title lang="ru">Время покажет [16+]</title>
   </programme>
+  <programme start="20260615063000 +0300" stop="20260615064000 +0300" channel="perviy">
+    <title lang="ru">Новости экономики</title>
+  </programme>
   <programme start="20260615063000 +0300" stop="20260615070000 +0300" channel="perviy">
     <title lang="ru">Смешарики</title>
   </programme>
   <programme start="20260615063500 +0300" stop="20260615070000 +0300" channel="perviy">
     <title lang="ru">Кадр из жизни (Вячеслав Антонец)</title>
+  </programme>
+  <programme start="20260615063500 +0300" stop="20260615065000 +0300" channel="perviy">
+    <title lang="ru">Новости</title>
+  </programme>
+  <programme start="20260615064000 +0300" stop="20260615065000 +0300" channel="perviy">
+    <title lang="ru">Мнение клуба</title>
   </programme>
   <programme start="20260615065000 +0300" stop="20260615070000 +0300" channel="perviy">
     <title lang="ru">Громов LIVE</title>
@@ -1505,11 +1616,23 @@
   <programme start="20260615030000 +0300" stop="20260615070000 +0300" channel="rossiya1">
     <title lang="ru">Утро России</title>
   </programme>
+  <programme start="20260615045500 +0300" stop="20260615060000 +0300" channel="rossiya1">
+    <title lang="ru">О самом главном</title>
+  </programme>
   <programme start="20260615050000 +0300" stop="20260615090000 +0300" channel="rossiya1">
     <title lang="ru">Утро России</title>
   </programme>
+  <programme start="20260615050000 +0300" stop="20260615053000 +0300" channel="rossiya1">
+    <title lang="ru">Вести</title>
+  </programme>
+  <programme start="20260615053000 +0300" stop="20260615055500 +0300" channel="rossiya1">
+    <title lang="ru">Вести. Местное время</title>
+  </programme>
   <programme start="20260615055500 +0300" stop="20260615070000 +0300" channel="rossiya1">
     <title lang="ru">О самом главном</title>
+  </programme>
+  <programme start="20260615060000 +0300" stop="20260615063000 +0300" channel="rossiya1">
+    <title lang="ru">Вести</title>
   </programme>
   <programme start="20260615063000 +0300" stop="20260615070000 +0300" channel="rossiya1">
     <title lang="ru">Вести. Местное время</title>
@@ -1655,8 +1778,65 @@
   <programme start="20260615234000 +0300" stop="20260616004000 +0300" channel="rossiya1">
     <title lang="ru">Бесогон ТВ</title>
   </programme>
+  <programme start="20260615000000 +0300" stop="20260615061000 +0300" channel="ntv">
+    <title lang="ru">Программа не предоставлена каналом</title>
+  </programme>
+  <programme start="20260615033500 +0300" stop="20260615060000 +0300" channel="ntv">
+    <title lang="ru">Пёс [16+]</title>
+  </programme>
+  <programme start="20260615041500 +0300" stop="20260615052700 +0300" channel="ntv">
+    <title lang="ru">Пес (Ангел)</title>
+  </programme>
+  <programme start="20260615042500 +0300" stop="20260615051000 +0300" channel="ntv">
+    <title lang="ru">Инженеры Победы. Народный ВПК [16+]</title>
+  </programme>
+  <programme start="20260615043000 +0300" stop="20260615063000 +0300" channel="ntv">
+    <title lang="ru">Пёс [16+]</title>
+  </programme>
+  <programme start="20260615043000 +0300" stop="20260615060000 +0300" channel="ntv">
+    <title lang="ru">Утро. Самое лучшее [16+]</title>
+  </programme>
+  <programme start="20260615045100 +0300" stop="20260615054800 +0300" channel="ntv">
+    <title lang="ru">Лесник. Своя земля. Старое ружьё: Часть 2-я</title>
+  </programme>
+  <programme start="20260615045500 +0300" stop="20260615052500 +0300" channel="ntv">
+    <title lang="ru">Человек в праве с Андреем Куницыным. Наказание для неадекватной родительницы, бесконечный кредит и врачебная ошибка после ДТП [16+]</title>
+  </programme>
+  <programme start="20260615045500 +0300" stop="20260615055000 +0300" channel="ntv">
+    <title lang="ru">Неуловимые (с.4) [16+]</title>
+  </programme>
+  <programme start="20260615050000 +0300" stop="20260615054500 +0300" channel="ntv">
+    <title lang="ru">Bокруг Света. Места Cилы. Горный Алтай [16+]</title>
+  </programme>
+  <programme start="20260615050000 +0300" stop="20260615052500 +0300" channel="ntv">
+    <title lang="ru">Сегодня</title>
+  </programme>
+  <programme start="20260615051000 +0300" stop="20260615060000 +0300" channel="ntv">
+    <title lang="ru">Пёс [16+]</title>
+  </programme>
+  <programme start="20260615052500 +0300" stop="20260615061000 +0300" channel="ntv">
+    <title lang="ru">До суда. Побег [16+]</title>
+  </programme>
+  <programme start="20260615052500 +0300" stop="20260615060000 +0300" channel="ntv">
+    <title lang="ru">ЧП</title>
+  </programme>
+  <programme start="20260615052700 +0300" stop="20260615064000 +0300" channel="ntv">
+    <title lang="ru">Пес (Гиблое место)</title>
+  </programme>
+  <programme start="20260615054500 +0300" stop="20260615060000 +0300" channel="ntv">
+    <title lang="ru">Мультфильмы [0+]</title>
+  </programme>
+  <programme start="20260615054800 +0300" stop="20260615064100 +0300" channel="ntv">
+    <title lang="ru">Лесник. Своя земля. Старое ружьё: Часть 1-я</title>
+  </programme>
+  <programme start="20260615055000 +0300" stop="20260615063500 +0300" channel="ntv">
+    <title lang="ru">Неуловимые (с.5) [16+]</title>
+  </programme>
   <programme start="20260615060000 +0300" stop="20260615083000 +0300" channel="ntv">
     <title lang="ru">Мультфильмы [0+]</title>
+  </programme>
+  <programme start="20260615060000 +0300" stop="20260615062500 +0300" channel="ntv">
+    <title lang="ru">Сегодня</title>
   </programme>
   <programme start="20260615060000 +0300" stop="20260615080000 +0300" channel="ntv">
     <title lang="ru">Место встречи</title>
@@ -2189,17 +2369,104 @@
   <programme start="20260615235000 +0300" stop="20260616005000 +0300" channel="ntv">
     <title lang="ru">Пятницкий. Всё из-за бюрократии [16+]</title>
   </programme>
+  <programme start="20260615040000 +0300" stop="20260615053500 +0300" channel="ctc">
+    <title lang="ru">Про100 кухня. 29 с.</title>
+  </programme>
+  <programme start="20260615044000 +0300" stop="20260615060500 +0300" channel="ctc">
+    <title lang="ru">Москва. Три вокзала-8. 31-я серия - "Хороший день".</title>
+  </programme>
   <programme start="20260615045500 +0300" stop="20260615065500 +0300" channel="ctc">
     <title lang="ru">Не в деньгах счастье</title>
+  </programme>
+  <programme start="20260615045700 +0300" stop="20260615050200 +0300" channel="ctc">
+    <title lang="ru">Три кота (Банковская карта Компота)</title>
+  </programme>
+  <programme start="20260615050000 +0300" stop="20260615061000 +0300" channel="ctc">
+    <title lang="ru">100 мест, где поесть</title>
   </programme>
   <programme start="20260615050000 +0300" stop="20260615070000 +0300" channel="ctc">
     <title lang="ru">Несносные леди</title>
   </programme>
+  <programme start="20260615050000 +0300" stop="20260615050500 +0300" channel="ctc">
+    <title lang="ru">Три кота (Янтарь)</title>
+  </programme>
+  <programme start="20260615050000 +0300" stop="20260615060000 +0300" channel="ctc">
+    <title lang="ru">С лeгким утрoм! 5 с.</title>
+  </programme>
+  <programme start="20260615050200 +0300" stop="20260615050700 +0300" channel="ctc">
+    <title lang="ru">Три кота (Водный поход)</title>
+  </programme>
+  <programme start="20260615050500 +0300" stop="20260615051000 +0300" channel="ctc">
+    <title lang="ru">Три кота (Жизнь в горах)</title>
+  </programme>
+  <programme start="20260615050700 +0300" stop="20260615051100 +0300" channel="ctc">
+    <title lang="ru">Три кота (День рождения Карамельки)</title>
+  </programme>
+  <programme start="20260615051000 +0300" stop="20260615051500 +0300" channel="ctc">
+    <title lang="ru">Три кота (Борьба со стрессом)</title>
+  </programme>
+  <programme start="20260615051100 +0300" stop="20260615051600 +0300" channel="ctc">
+    <title lang="ru">Три кота. 38 с.</title>
+  </programme>
+  <programme start="20260615051500 +0300" stop="20260615052000 +0300" channel="ctc">
+    <title lang="ru">Три кота (Как дома)</title>
+  </programme>
+  <programme start="20260615051600 +0300" stop="20260615052100 +0300" channel="ctc">
+    <title lang="ru">Три кота (Новая игра)</title>
+  </programme>
+  <programme start="20260615052000 +0300" stop="20260615052500 +0300" channel="ctc">
+    <title lang="ru">Развлечеба (Про размеры вселенной)</title>
+  </programme>
+  <programme start="20260615052100 +0300" stop="20260615052600 +0300" channel="ctc">
+    <title lang="ru">Три кота (Спойлеры)</title>
+  </programme>
+  <programme start="20260615052500 +0300" stop="20260615053600 +0300" channel="ctc">
+    <title lang="ru">Лекс и Плу. Космические таксисты. 39 с.</title>
+  </programme>
+  <programme start="20260615052600 +0300" stop="20260615053100 +0300" channel="ctc">
+    <title lang="ru">Три кота (Снегопад)</title>
+  </programme>
+  <programme start="20260615053100 +0300" stop="20260615053500 +0300" channel="ctc">
+    <title lang="ru">Три кота (Сноуборд)</title>
+  </programme>
+  <programme start="20260615053500 +0300" stop="20260615054000 +0300" channel="ctc">
+    <title lang="ru">Три кота (Ревущие моторы)</title>
+  </programme>
+  <programme start="20260615053500 +0300" stop="20260615055500 +0300" channel="ctc">
+    <title lang="ru">100 мест, где поесть</title>
+  </programme>
+  <programme start="20260615053600 +0300" stop="20260615054800 +0300" channel="ctc">
+    <title lang="ru">Лекс и Плу. Космические таксисты. 40 с.</title>
+  </programme>
+  <programme start="20260615054000 +0300" stop="20260615054500 +0300" channel="ctc">
+    <title lang="ru">Три кота (Штормовое предупреждение)</title>
+  </programme>
+  <programme start="20260615054500 +0300" stop="20260615055000 +0300" channel="ctc">
+    <title lang="ru">Три кота (Музыкальная открытка)</title>
+  </programme>
+  <programme start="20260615054800 +0300" stop="20260615060000 +0300" channel="ctc">
+    <title lang="ru">Лекс и Плу. Космические таксисты. 41 с.</title>
+  </programme>
+  <programme start="20260615055000 +0300" stop="20260615055500 +0300" channel="ctc">
+    <title lang="ru">Три кота (Киношедевр)</title>
+  </programme>
+  <programme start="20260615055500 +0300" stop="20260615060000 +0300" channel="ctc">
+    <title lang="ru">Три кота (Пикник)</title>
+  </programme>
   <programme start="20260615055500 +0300" stop="20260615075500 +0300" channel="ctc">
     <title lang="ru">Ну, здравствуй, Оксана Соколова!</title>
   </programme>
+  <programme start="20260615055900 +0300" stop="20260615060000 +0300" channel="ctc">
+    <title lang="ru">Окончание эфира</title>
+  </programme>
   <programme start="20260615060000 +0300" stop="20260615070000 +0300" channel="ctc">
     <title lang="ru">Даёшь молодёжь! [16+]</title>
+  </programme>
+  <programme start="20260615060000 +0300" stop="20260615060500 +0300" channel="ctc">
+    <title lang="ru">Отель у овечек (Птенцы близнецы)</title>
+  </programme>
+  <programme start="20260615060000 +0300" stop="20260615060500 +0300" channel="ctc">
+    <title lang="ru">Развлечеба (Про 5 важных вопросов)</title>
   </programme>
   <programme start="20260615060000 +0300" stop="20260615073500 +0300" channel="ctc">
     <title lang="ru">Про100 кухня. 29 с.</title>
@@ -2207,11 +2474,41 @@
   <programme start="20260615060500 +0300" stop="20260615154500 +0300" channel="ctc">
     <title lang="ru">Склифосовский. 4-й сезон. 13-я - 24-я серии.</title>
   </programme>
+  <programme start="20260615060500 +0300" stop="20260615061000 +0300" channel="ctc">
+    <title lang="ru">Отель у овечек (В поисках клада)</title>
+  </programme>
+  <programme start="20260615060500 +0300" stop="20260615061500 +0300" channel="ctc">
+    <title lang="ru">38 попугаев (38 попугаев)</title>
+  </programme>
   <programme start="20260615061000 +0300" stop="20260615070000 +0300" channel="ctc">
     <title lang="ru">С лeгким утрoм! 4 с.</title>
   </programme>
+  <programme start="20260615061000 +0300" stop="20260615061500 +0300" channel="ctc">
+    <title lang="ru">Отель у овечек (А где чемодан?)</title>
+  </programme>
+  <programme start="20260615061500 +0300" stop="20260615062000 +0300" channel="ctc">
+    <title lang="ru">Отель у овечек (Привидение)</title>
+  </programme>
+  <programme start="20260615061500 +0300" stop="20260615062500 +0300" channel="ctc">
+    <title lang="ru">Как лечить удава?</title>
+  </programme>
+  <programme start="20260615062000 +0300" stop="20260615062500 +0300" channel="ctc">
+    <title lang="ru">Отель у овечек (Гранд отель)</title>
+  </programme>
+  <programme start="20260615062500 +0300" stop="20260615063000 +0300" channel="ctc">
+    <title lang="ru">Отель у овечек (Пришельцы)</title>
+  </programme>
+  <programme start="20260615062500 +0300" stop="20260615063000 +0300" channel="ctc">
+    <title lang="ru">Куда идет слоненок?</title>
+  </programme>
   <programme start="20260615063000 +0300" stop="20260615065700 +0300" channel="ctc">
     <title lang="ru">Даешь молодежь! (Выпуск 40)</title>
+  </programme>
+  <programme start="20260615063000 +0300" stop="20260615064000 +0300" channel="ctc">
+    <title lang="ru">Бабушка удава</title>
+  </programme>
+  <programme start="20260615064000 +0300" stop="20260615064500 +0300" channel="ctc">
+    <title lang="ru">А вдруг получится!</title>
   </programme>
   <programme start="20260615064500 +0300" stop="20260615065500 +0300" channel="ctc">
     <title lang="ru">Привет Мартышке</title>
@@ -2747,8 +3044,26 @@
   <programme start="20260615233230 +0300" stop="20260616000320 +0300" channel="ctc">
     <title lang="ru">Сёстры (с.11)</title>
   </programme>
+  <programme start="20260615032500 +0300" stop="20260615050500 +0300" channel="ren">
+    <title lang="ru">Борис Беккер. Игрок с большой буквы [12+]</title>
+  </programme>
+  <programme start="20260615050000 +0300" stop="20260615060000 +0300" channel="ren">
+    <title lang="ru">Самые шoкиpующие гипотезы</title>
+  </programme>
   <programme start="20260615050000 +0300" stop="20260615070000 +0300" channel="ren">
     <title lang="ru">«Военная тайна» с Игорем Прокопенко</title>
+  </programme>
+  <programme start="20260615050000 +0300" stop="20260615053000 +0300" channel="ren">
+    <title lang="ru">Инфопрограмма 112</title>
+  </programme>
+  <programme start="20260615050500 +0300" stop="20260615053000 +0300" channel="ren">
+    <title lang="ru">Формула-1. Гаснут огни [12+]</title>
+  </programme>
+  <programme start="20260615053000 +0300" stop="20260615060000 +0300" channel="ren">
+    <title lang="ru">Вопреки всему [12+]</title>
+  </programme>
+  <programme start="20260615053000 +0300" stop="20260615060000 +0300" channel="ren">
+    <title lang="ru">Новости</title>
   </programme>
   <programme start="20260615060000 +0300" stop="20260615074500 +0300" channel="ren">
     <title lang="ru">Плавание. Чемпионат России. Трансляция из Казани [6+]</title>
@@ -2855,17 +3170,77 @@
   <programme start="20260615232500 +0300" stop="20260616003500 +0300" channel="ren">
     <title lang="ru">Автоспорт. Российская серия кольцевых гонок. "Казань ринг". SMP GT4. Гонка 1 [6+]</title>
   </programme>
+  <programme start="20260614233000 +0300" stop="20260615060000 +0300" channel="tnt">
+    <title lang="ru">Плей-лист [16+]</title>
+  </programme>
+  <programme start="20260615003000 +0300" stop="20260615060000 +0300" channel="tnt">
+    <title lang="ru">Однажды в России</title>
+  </programme>
+  <programme start="20260615020000 +0300" stop="20260615054500 +0300" channel="tnt">
+    <title lang="ru">Сокровища императора. 10 с.</title>
+  </programme>
   <programme start="20260615030000 +0300" stop="20260615073000 +0300" channel="tnt">
     <title lang="ru">⋗ The Ultimate Fighting Championship. UFC Freedom 250</title>
   </programme>
   <programme start="20260615031500 +0300" stop="20260615071500 +0300" channel="tnt">
     <title lang="ru">⋗ International T20 Cricket. 3rd T20: West Indies v Sri Lanka</title>
   </programme>
+  <programme start="20260615032500 +0300" stop="20260615052500 +0300" channel="tnt">
+    <title lang="ru">Die Bücherdiebin</title>
+  </programme>
+  <programme start="20260615042500 +0300" stop="20260615050500 +0300" channel="tnt">
+    <title lang="ru">NCIS: Los Angeles | S05E12</title>
+  </programme>
+  <programme start="20260615043000 +0300" stop="20260615053000 +0300" channel="tnt">
+    <title lang="ru">MotoGP. Hungarian Grand Prix</title>
+  </programme>
+  <programme start="20260615044500 +0300" stop="20260615051000 +0300" channel="tnt">
+    <title lang="ru">Наша Russia (Дайджест)</title>
+  </programme>
+  <programme start="20260615050000 +0300" stop="20260615063000 +0300" channel="tnt">
+    <title lang="ru">Australian Rules. Richmond v Brisbane Lions</title>
+  </programme>
+  <programme start="20260615050000 +0300" stop="20260615050700 +0300" channel="tnt">
+    <title lang="ru">Утро. ТНТ. 106 с.</title>
+  </programme>
+  <programme start="20260615050000 +0300" stop="20260615053000 +0300" channel="tnt">
+    <title lang="ru">Интерны. 185 с.</title>
+  </programme>
   <programme start="20260615050000 +0300" stop="20260615084500 +0300" channel="tnt">
     <title lang="ru">Сокровища императора. 10 с.</title>
   </programme>
+  <programme start="20260615050500 +0300" stop="20260615052000 +0300" channel="tnt">
+    <title lang="ru">Robot Chicken | S13E03</title>
+  </programme>
+  <programme start="20260615050700 +0300" stop="20260615055000 +0300" channel="tnt">
+    <title lang="ru">Однажды в России (Спецдайджест)</title>
+  </programme>
+  <programme start="20260615051000 +0300" stop="20260615054000 +0300" channel="tnt">
+    <title lang="ru">Утро. ТНТ. 106 с.</title>
+  </programme>
+  <programme start="20260615052000 +0300" stop="20260615060500 +0300" channel="tnt">
+    <title lang="ru">Daktari | S26E02</title>
+  </programme>
   <programme start="20260615052500 +0300" stop="20260615070000 +0300" channel="tnt">
     <title lang="ru">Mörder ahoi!</title>
+  </programme>
+  <programme start="20260615053000 +0300" stop="20260615063000 +0300" channel="tnt">
+    <title lang="ru">FIM Speedway Grand Prix. Rounds 3 and 4: Grand Prix of Great Britain</title>
+  </programme>
+  <programme start="20260615053000 +0300" stop="20260615060000 +0300" channel="tnt">
+    <title lang="ru">Интерны. 186 с.</title>
+  </programme>
+  <programme start="20260615054000 +0300" stop="20260615055000 +0300" channel="tnt">
+    <title lang="ru">Утро. ТНТ. 107 с.</title>
+  </programme>
+  <programme start="20260615054500 +0300" stop="20260615061000 +0300" channel="tnt">
+    <title lang="ru">Интерны (189)</title>
+  </programme>
+  <programme start="20260615055000 +0300" stop="20260615060000 +0300" channel="tnt">
+    <title lang="ru">Утро. ТНТ. 107 с.</title>
+  </programme>
+  <programme start="20260615055000 +0300" stop="20260615062000 +0300" channel="tnt">
+    <title lang="ru">Интерны. 182 с.</title>
   </programme>
   <programme start="20260615060000 +0300" stop="20260615080000 +0300" channel="tnt">
     <title lang="ru">Плей-лист [16+]</title>
@@ -2876,8 +3251,17 @@
   <programme start="20260615060000 +0300" stop="20260615070000 +0300" channel="tnt">
     <title lang="ru">Женское шоу</title>
   </programme>
+  <programme start="20260615060000 +0300" stop="20260615063000 +0300" channel="tnt">
+    <title lang="ru">Интерны. 187 с.</title>
+  </programme>
   <programme start="20260615060500 +0300" stop="20260615065500 +0300" channel="tnt">
     <title lang="ru">Daktari | S27E02</title>
+  </programme>
+  <programme start="20260615061000 +0300" stop="20260615064000 +0300" channel="tnt">
+    <title lang="ru">Интерны (190)</title>
+  </programme>
+  <programme start="20260615062000 +0300" stop="20260615064000 +0300" channel="tnt">
+    <title lang="ru">Интерны. 183 с.</title>
   </programme>
   <programme start="20260615063000 +0300" stop="20260615080000 +0300" channel="tnt">
     <title lang="ru">Australian Rules. St Kilda v GWS GIANTS</title>
@@ -3371,6 +3755,33 @@
   <programme start="20260615233000 +0300" stop="20260616060000 +0300" channel="tnt">
     <title lang="ru">Плей-лист [16+]</title>
   </programme>
+  <programme start="20260615032000 +0300" stop="20260615051500 +0300" channel="5tv">
+    <title lang="ru">Գ/Ֆ "Գոձիլան ընդդեմ Քոնգի"</title>
+  </programme>
+  <programme start="20260615040000 +0300" stop="20260615060000 +0300" channel="5tv">
+    <title lang="ru">Վ/Ֆ "Սինատրա. Ամեն ինչ կամ ոչինչ" մաս 1-ին</title>
+  </programme>
+  <programme start="20260615044000 +0300" stop="20260615052000 +0300" channel="5tv">
+    <title lang="ru">Свои (Дорожные воины)</title>
+  </programme>
+  <programme start="20260615050000 +0300" stop="20260615052500 +0300" channel="5tv">
+    <title lang="ru">Известия</title>
+  </programme>
+  <programme start="20260615051500 +0300" stop="20260615064000 +0300" channel="5tv">
+    <title lang="ru">Մ/Ֆ " Խիզախ սիրտը. Դավադրություն թագավորությունում"</title>
+  </programme>
+  <programme start="20260615052000 +0300" stop="20260615060500 +0300" channel="5tv">
+    <title lang="ru">Свои (Цвет смерти)</title>
+  </programme>
+  <programme start="20260615052500 +0300" stop="20260615060000 +0300" channel="5tv">
+    <title lang="ru">Свои (Пейзаж номер пять)</title>
+  </programme>
+  <programme start="20260615060000 +0300" stop="20260615064000 +0300" channel="5tv">
+    <title lang="ru">Свои (Эвтаназия по-русски)</title>
+  </programme>
+  <programme start="20260615060500 +0300" stop="20260615064000 +0300" channel="5tv">
+    <title lang="ru">Фирменный рецепт</title>
+  </programme>
   <programme start="20260615064000 +0300" stop="20260615073000 +0300" channel="5tv">
     <title lang="ru">Մ/Ս "Կեցցե Ջուլիան արքան" սեզոն 3 սերիա 10-11</title>
   </programme>
@@ -3461,11 +3872,62 @@
   <programme start="20260615173000 +0300" stop="20260615182000 +0300" channel="5tv">
     <title lang="ru">След (Черепаха на спине)</title>
   </programme>
+  <programme start="20260615030000 +0300" stop="20260615052000 +0300" channel="tvc">
+    <title lang="ru">Настроение [6+]</title>
+  </programme>
+  <programme start="20260615040000 +0300" stop="20260615062000 +0300" channel="tvc">
+    <title lang="ru">Настроение [6+]</title>
+  </programme>
+  <programme start="20260615045000 +0300" stop="20260615055000 +0300" channel="tvc">
+    <title lang="ru">Заклятые подруги</title>
+  </programme>
+  <programme start="20260615045000 +0300" stop="20260615055000 +0300" channel="tvc">
+    <title lang="ru">С небес на землю (с.1) [16+]</title>
+  </programme>
+  <programme start="20260615045000 +0300" stop="20260615054500 +0300" channel="tvc">
+    <title lang="ru">С небес на землю (с.2) [16+]</title>
+  </programme>
+  <programme start="20260615045500 +0300" stop="20260615052000 +0300" channel="tvc">
+    <title lang="ru">10 самых. Время перемен. Кукловоды шоу-бизнеса [16+]</title>
+  </programme>
+  <programme start="20260615045500 +0300" stop="20260615055000 +0300" channel="tvc">
+    <title lang="ru">Женская версия. Ловцы душ (с.1) [16+]</title>
+  </programme>
+  <programme start="20260615050000 +0300" stop="20260615060000 +0300" channel="tvc">
+    <title lang="ru">Ромб</title>
+  </programme>
+  <programme start="20260615052000 +0300" stop="20260615060000 +0300" channel="tvc">
+    <title lang="ru">Мой герой. Елена Панова [12+]</title>
+  </programme>
+  <programme start="20260615052000 +0300" stop="20260615055500 +0300" channel="tvc">
+    <title lang="ru">Смех, дрожь и видео [16+]</title>
+  </programme>
+  <programme start="20260615054500 +0300" stop="20260615063000 +0300" channel="tvc">
+    <title lang="ru">Мой герой. Владимир Канухин [12+]</title>
+  </programme>
+  <programme start="20260615055000 +0300" stop="20260615065000 +0300" channel="tvc">
+    <title lang="ru">Женская версия. Ловцы душ (с.2) [16+]</title>
+  </programme>
+  <programme start="20260615055000 +0300" stop="20260615064500 +0300" channel="tvc">
+    <title lang="ru">С небес на землю (с.2) [16+]</title>
+  </programme>
+  <programme start="20260615055500 +0300" stop="20260615065000 +0300" channel="tvc">
+    <title lang="ru">Женская версия. Ловцы душ (с.1) [16+]</title>
+  </programme>
   <programme start="20260615060000 +0300" stop="20260615082000 +0300" channel="tvc">
     <title lang="ru">Настроение [6+]</title>
   </programme>
+  <programme start="20260615060000 +0300" stop="20260615062000 +0300" channel="tvc">
+    <title lang="ru">Sinteza săptăminii</title>
+  </programme>
+  <programme start="20260615062000 +0300" stop="20260615065000 +0300" channel="tvc">
+    <title lang="ru">Fantezia gustului</title>
+  </programme>
   <programme start="20260615062000 +0300" stop="20260615065500 +0300" channel="tvc">
     <title lang="ru">Смех, дрожь и видео [16+]</title>
+  </programme>
+  <programme start="20260615063000 +0300" stop="20260615065000 +0300" channel="tvc">
+    <title lang="ru">События [6+]</title>
   </programme>
   <programme start="20260615064500 +0300" stop="20260615073000 +0300" channel="tvc">
     <title lang="ru">Мой герой. Владимир Канухин [12+]</title>
@@ -3839,8 +4301,29 @@
   <programme start="20260615230500 +0300" stop="20260616000000 +0300" channel="tvc">
     <title lang="ru">Знак качества. Срок годности [16+]</title>
   </programme>
+  <programme start="20260615043000 +0300" stop="20260615060000 +0300" channel="o_tv">
+    <title lang="ru">Расёмон [16+]</title>
+  </programme>
+  <programme start="20260615043000 +0300" stop="20260615051500 +0300" channel="o_tv">
+    <title lang="ru">Родительское собрание</title>
+  </programme>
+  <programme start="20260615050000 +0300" stop="20260615053000 +0300" channel="o_tv">
+    <title lang="ru">Тайные сокровища Тихого океана (Рождество)</title>
+  </programme>
+  <programme start="20260615051500 +0300" stop="20260615053500 +0300" channel="o_tv">
+    <title lang="ru">Нескучное дело с Сергеем Ломакиным</title>
+  </programme>
+  <programme start="20260615053000 +0300" stop="20260615055500 +0300" channel="o_tv">
+    <title lang="ru">Тайные сокровища Тихого океана (Рождество)</title>
+  </programme>
   <programme start="20260615053500 +0300" stop="20260615070000 +0300" channel="o_tv">
     <title lang="ru">Я свободен, я ничей</title>
+  </programme>
+  <programme start="20260615055500 +0300" stop="20260615062000 +0300" channel="o_tv">
+    <title lang="ru">Кулинарные приключения в Китае (Куньмин, провинция Юньнань)</title>
+  </programme>
+  <programme start="20260615060000 +0300" stop="20260615061000 +0300" channel="o_tv">
+    <title lang="ru">Это сделано в России [12+]</title>
   </programme>
   <programme start="20260615061000 +0300" stop="20260615073000 +0300" channel="o_tv">
     <title lang="ru">Я свободен, я ничей [16+]</title>
@@ -4022,11 +4505,41 @@
   <programme start="20260615235500 +0300" stop="20260616005000 +0300" channel="o_tv">
     <title lang="ru">Путешествие в классику. Великие композиторы. Эдвард Григ [12+]</title>
   </programme>
+  <programme start="20260615041000 +0300" stop="20260615053500 +0300" channel="zvez">
+    <title lang="ru">Штрафник (с.3) [16+]</title>
+  </programme>
+  <programme start="20260615043000 +0300" stop="20260615051000 +0300" channel="zvez">
+    <title lang="ru">Воздушные войны (Первая Мировая)</title>
+  </programme>
+  <programme start="20260615044000 +0300" stop="20260615052000 +0300" channel="zvez">
+    <title lang="ru">Штрафник (с.2) [16+]</title>
+  </programme>
+  <programme start="20260615045500 +0300" stop="20260615061000 +0300" channel="zvez">
+    <title lang="ru">Большая перемена (с.2) [12+]</title>
+  </programme>
+  <programme start="20260615050000 +0300" stop="20260615051500 +0300" channel="zvez">
+    <title lang="ru">Новости дня [16+]</title>
+  </programme>
+  <programme start="20260615051000 +0300" stop="20260615055000 +0300" channel="zvez">
+    <title lang="ru">Воздушные войны (Первая Мировая)</title>
+  </programme>
   <programme start="20260615051500 +0300" stop="20260615070000 +0300" channel="zvez">
     <title lang="ru">Открытый эфир [16+]</title>
   </programme>
+  <programme start="20260615052000 +0300" stop="20260615060000 +0300" channel="zvez">
+    <title lang="ru">Штрафник (с.3) [16+]</title>
+  </programme>
   <programme start="20260615053500 +0300" stop="20260615070000 +0300" channel="zvez">
     <title lang="ru">Штрафник (с.4) [16+]</title>
+  </programme>
+  <programme start="20260615055000 +0300" stop="20260615060000 +0300" channel="zvez">
+    <title lang="ru">Сделано в СССР</title>
+  </programme>
+  <programme start="20260615060000 +0300" stop="20260615063500 +0300" channel="zvez">
+    <title lang="ru">Тайны военной разведки (Отто. На секретной волне)</title>
+  </programme>
+  <programme start="20260615060000 +0300" stop="20260615062500 +0300" channel="zvez">
+    <title lang="ru">Новости дня [16+]</title>
   </programme>
   <programme start="20260615061000 +0300" stop="20260615073500 +0300" channel="zvez">
     <title lang="ru">Штрафник (с.3) [16+]</title>
@@ -4337,20 +4850,71 @@
   <programme start="20260615231500 +0300" stop="20260616003140 +0300" channel="zvez">
     <title lang="ru">Семнадцать мгновений весны (с.1) [12+]</title>
   </programme>
+  <programme start="20260615025500 +0300" stop="20260615050500 +0300" channel="tb3">
+    <title lang="ru">Purvini pinigai (The Drop), 2014</title>
+  </programme>
+  <programme start="20260615030000 +0300" stop="20260615051500 +0300" channel="tb3">
+    <title lang="ru">Midsomeri mõrvad: Bantling Boy | S08E04</title>
+  </programme>
   <programme start="20260615030000 +0300" stop="20260615070000 +0300" channel="tb3">
     <title lang="ru">Cīņu sports: UFC. UFC</title>
+  </programme>
+  <programme start="20260615040000 +0300" stop="20260615060000 +0300" channel="tb3">
+    <title lang="ru">Перерыв в программе</title>
+  </programme>
+  <programme start="20260615042500 +0300" stop="20260615052500 +0300" channel="tb3">
+    <title lang="ru">Pludmales volejbols. Beach Pro Tour – Challenge sievietēm Jūrmalā. Beach Volleyball: Beach Pro Tour – Challenge for Women in Jurmala</title>
+  </programme>
+  <programme start="20260615050000 +0300" stop="20260615052500 +0300" channel="tb3">
+    <title lang="ru">Divarpus vīri 7</title>
+  </programme>
+  <programme start="20260615050000 +0300" stop="20260615053000 +0300" channel="tb3">
+    <title lang="ru">Svešā seja</title>
+  </programme>
+  <programme start="20260615050000 +0300" stop="20260615051500 +0300" channel="tb3">
+    <title lang="ru">Ночной эфир TV3 Plus</title>
+  </programme>
+  <programme start="20260615050500 +0300" stop="20260615060000 +0300" channel="tb3">
+    <title lang="ru">911. Teksaso gelbėtojai (9-1-1: Lone Star), 2020</title>
+  </programme>
+  <programme start="20260615051500 +0300" stop="20260615054500 +0300" channel="tb3">
+    <title lang="ru">TV3 uudised | E164</title>
   </programme>
   <programme start="20260615051500 +0300" stop="20260615071000 +0300" channel="tb3">
     <title lang="ru">Беременная в 16. Cезон 3</title>
   </programme>
+  <programme start="20260615052500 +0300" stop="20260615055500 +0300" channel="tb3">
+    <title lang="ru">Divarpus vīri 7</title>
+  </programme>
+  <programme start="20260615052500 +0300" stop="20260615055500 +0300" channel="tb3">
+    <title lang="ru">GP Confidential. GP Confidential</title>
+  </programme>
+  <programme start="20260615053000 +0300" stop="20260615060000 +0300" channel="tb3">
+    <title lang="ru">Kristīgā programma «Ticīgo uzvaras balss”</title>
+  </programme>
+  <programme start="20260615054500 +0300" stop="20260615063000 +0300" channel="tb3">
+    <title lang="ru">Kaks Kanget Tansaanias | S01E01</title>
+  </programme>
+  <programme start="20260615055500 +0300" stop="20260615060000 +0300" channel="tb3">
+    <title lang="ru">Auniņš Šons</title>
+  </programme>
   <programme start="20260615055500 +0300" stop="20260615070000 +0300" channel="tb3">
     <title lang="ru">Superbike pasaules čempionāts: Made in Italy Emilia-Romagna. Superbike World Championship: Misano World Circuit</title>
+  </programme>
+  <programme start="20260615060000 +0300" stop="20260615061000 +0300" channel="tb3">
+    <title lang="ru">Misters Bīns 2</title>
   </programme>
   <programme start="20260615060000 +0300" stop="20260615083000 +0300" channel="tb3">
     <title lang="ru">galvOK (GalvOK), 2026</title>
   </programme>
+  <programme start="20260615060000 +0300" stop="20260615063000 +0300" channel="tb3">
+    <title lang="ru">Džeimija ātrās receptes</title>
+  </programme>
   <programme start="20260615060000 +0300" stop="20260615080000 +0300" channel="tb3">
     <title lang="ru">Перерыв в программе</title>
+  </programme>
+  <programme start="20260615061000 +0300" stop="20260615062500 +0300" channel="tb3">
+    <title lang="ru">Misters Bīns 2</title>
   </programme>
   <programme start="20260615062500 +0300" stop="20260615084500 +0300" channel="tb3">
     <title lang="ru">900 sekundes</title>
@@ -4628,6 +5192,12 @@
   <programme start="20260615235000 +0300" stop="20260616014500 +0300" channel="tb3">
     <title lang="ru">Убийство в Сен-Лу</title>
   </programme>
+  <programme start="20260615050000 +0300" stop="20260615055500 +0300" channel="sas">
+    <title lang="ru">Маша и Медведь. Кое-кто в сапогах [0+]</title>
+  </programme>
+  <programme start="20260615055500 +0300" stop="20260615060000 +0300" channel="sas">
+    <title lang="ru">Маша и Медведь. Машины песенки. Почти древнегреческая история [0+]</title>
+  </programme>
   <programme start="20260615060000 +0300" stop="20260615072000 +0300" channel="sas">
     <title lang="ru">Маша и Медведь. Сюрприз! Сюрприз!</title>
   </programme>
@@ -4718,6 +5288,18 @@
   <programme start="20260615230000 +0300" stop="20260616000000 +0300" channel="sas">
     <title lang="ru">Клон (с.240) [16+]</title>
   </programme>
+  <programme start="20260615043000 +0300" stop="20260615051500 +0300" channel="chetv">
+    <title lang="ru">Большой кэш (с.4) [16+]</title>
+  </programme>
+  <programme start="20260615051500 +0300" stop="20260615060000 +0300" channel="chetv">
+    <title lang="ru">Улётное видео [16+]</title>
+  </programme>
+  <programme start="20260615060000 +0300" stop="20260615062000 +0300" channel="chetv">
+    <title lang="ru">Улётное видео [16+]</title>
+  </programme>
+  <programme start="20260615062000 +0300" stop="20260615064500 +0300" channel="chetv">
+    <title lang="ru">Улётное видео [16+]</title>
+  </programme>
   <programme start="20260615064500 +0300" stop="20260615071000 +0300" channel="chetv">
     <title lang="ru">Улётное видео [16+]</title>
   </programme>
@@ -4802,6 +5384,18 @@
   <programme start="20260615230000 +0300" stop="20260616000000 +0300" channel="chetv">
     <title lang="ru">Опасные связи [18+]</title>
   </programme>
+  <programme start="20260615030500 +0300" stop="20260615050500 +0300" channel="dom_kino">
+    <title lang="ru">Чудо [16+]</title>
+  </programme>
+  <programme start="20260615040000 +0300" stop="20260615051000 +0300" channel="dom_kino">
+    <title lang="ru">Моя ужасная сестра.</title>
+  </programme>
+  <programme start="20260615050500 +0300" stop="20260615062000 +0300" channel="dom_kino">
+    <title lang="ru">Дневник мамы первоклассника [16+]</title>
+  </programme>
+  <programme start="20260615051000 +0300" stop="20260615060000 +0300" channel="dom_kino">
+    <title lang="ru">Три кота.</title>
+  </programme>
   <programme start="20260615060000 +0300" stop="20260615073000 +0300" channel="dom_kino">
     <title lang="ru">Снежная королева: Зазеркалье.</title>
   </programme>
@@ -4850,6 +5444,12 @@
   <programme start="20260615224500 +0300" stop="20260616003000 +0300" channel="dom_kino">
     <title lang="ru">Папы [16+]</title>
   </programme>
+  <programme start="20260615030000 +0300" stop="20260615060000 +0300" channel="karusel">
+    <title lang="ru">"Весёлая карусель" non-stop</title>
+  </programme>
+  <programme start="20260615034500 +0300" stop="20260615063000 +0300" channel="karusel">
+    <title lang="ru">Геройчики. Сборник 516-й [0+]</title>
+  </programme>
   <programme start="20260615043500 +0300" stop="20260615072500 +0300" channel="karusel">
     <title lang="ru">Лунтик и его друзья. Сборник 2590-й [0+]</title>
   </programme>
@@ -4858,6 +5458,9 @@
   </programme>
   <programme start="20260615060000 +0300" stop="20260615090000 +0300" channel="karusel">
     <title lang="ru">"Весёлая карусель" non-stop</title>
+  </programme>
+  <programme start="20260615063000 +0300" stop="20260615064500 +0300" channel="karusel">
+    <title lang="ru">Диностер. Спасите мамонтов [6+]</title>
   </programme>
   <programme start="20260615064500 +0300" stop="20260615070000 +0300" channel="karusel">
     <title lang="ru">Джи-Джи Бонд: Супергонщик. Боевой дух крепнет [6+]</title>
@@ -5027,6 +5630,15 @@
   <programme start="20260615230000 +0300" stop="20260616010000 +0300" channel="karusel">
     <title lang="ru">Приключения Пети и Волка. Сборник 409-й [12+]</title>
   </programme>
+  <programme start="20260615040232 +0300" stop="20260615061014 +0300" channel="nauka">
+    <title lang="ru">Космос серия 3</title>
+  </programme>
+  <programme start="20260615043500 +0300" stop="20260615051500 +0300" channel="nauka">
+    <title lang="ru">Накормить планету. Мегаиндустрия. Фрукты [12+]</title>
+  </programme>
+  <programme start="20260615051500 +0300" stop="20260615060000 +0300" channel="nauka">
+    <title lang="ru">Накормить планету. Мегаиндустрия. Овощи [12+]</title>
+  </programme>
   <programme start="20260615060000 +0300" stop="20260615065500 +0300" channel="nauka">
     <title lang="ru">Солнечная одиссея [12+]</title>
   </programme>
@@ -5165,6 +5777,9 @@
   <programme start="20260615235500 +0300" stop="20260616002000 +0300" channel="nauka">
     <title lang="ru">Обуздать углерод. Топливо [12+]</title>
   </programme>
+  <programme start="20260615050000 +0300" stop="20260615060000 +0300" channel="muz">
+    <title lang="ru">Музитив [16+]</title>
+  </programme>
   <programme start="20260615060000 +0300" stop="20260615070000 +0300" channel="muz">
     <title lang="ru">Короли Чартов [16+]</title>
   </programme>
@@ -5234,6 +5849,9 @@
   <programme start="20260615220000 +0300" stop="20260616002500 +0300" channel="muz">
     <title lang="ru">Топ-30: Hаpодный хит [16+]</title>
   </programme>
+  <programme start="20260615044000 +0300" stop="20260615060000 +0300" channel="match">
+    <title lang="ru">Футбол. Чемпионат мира-2026. Швеция - Тунис. Трансляция из Мексики</title>
+  </programme>
   <programme start="20260615060000 +0300" stop="20260615070000 +0300" channel="match">
     <title lang="ru">Футбол. Чемпионат мира-2026. Швеция - Тунис. Трансляция из Мексики</title>
   </programme>
@@ -5276,14 +5894,77 @@
   <programme start="20260615214000 +0300" stop="20260616000000 +0300" channel="match">
     <title lang="ru">Футбол. Чемпионат мира-2026. Бельгия - Египет. Трансляция из США</title>
   </programme>
+  <programme start="20260615044500 +0300" stop="20260615052400 +0300" channel="russia24">
+    <title lang="ru">Вести</title>
+  </programme>
+  <programme start="20260615045700 +0300" stop="20260615052400 +0300" channel="russia24">
+    <title lang="ru">Вести</title>
+  </programme>
+  <programme start="20260615050000 +0300" stop="20260615051500 +0300" channel="russia24">
+    <title lang="ru">Вести</title>
+  </programme>
+  <programme start="20260615051500 +0300" stop="20260615053100 +0300" channel="russia24">
+    <title lang="ru">Репортаж. Логвинова -Зеленый переход - адаптация человека к будущему. Спорт</title>
+  </programme>
+  <programme start="20260615052400 +0300" stop="20260615052900 +0300" channel="russia24">
+    <title lang="ru">Экономика</title>
+  </programme>
+  <programme start="20260615052700 +0300" stop="20260615053900 +0300" channel="russia24">
+    <title lang="ru">Погода 24</title>
+  </programme>
+  <programme start="20260615052900 +0300" stop="20260615054200 +0300" channel="russia24">
+    <title lang="ru">Спорт</title>
+  </programme>
+  <programme start="20260615053100 +0300" stop="20260615053600 +0300" channel="russia24">
+    <title lang="ru">Вести</title>
+  </programme>
+  <programme start="20260615053600 +0300" stop="20260615060000 +0300" channel="russia24">
+    <title lang="ru">Погода 24</title>
+  </programme>
+  <programme start="20260615053800 +0300" stop="20260615060000 +0300" channel="russia24">
+    <title lang="ru">5-я студия</title>
+  </programme>
+  <programme start="20260615053900 +0300" stop="20260615063900 +0300" channel="russia24">
+    <title lang="ru">Вести</title>
+  </programme>
+  <programme start="20260615054200 +0300" stop="20260615054500 +0300" channel="russia24">
+    <title lang="ru">Погода 24</title>
+  </programme>
+  <programme start="20260615054500 +0300" stop="20260615062400 +0300" channel="russia24">
+    <title lang="ru">Вести</title>
+  </programme>
+  <programme start="20260615060000 +0300" stop="20260615060700 +0300" channel="russia24">
+    <title lang="ru">Вести</title>
+  </programme>
+  <programme start="20260615060700 +0300" stop="20260615061000 +0300" channel="russia24">
+    <title lang="ru">Экономика</title>
+  </programme>
   <programme start="20260615060800 +0300" stop="20260615070000 +0300" channel="russia24">
     <title lang="ru">Москва. Кремль. Путин</title>
+  </programme>
+  <programme start="20260615061000 +0300" stop="20260615063100 +0300" channel="russia24">
+    <title lang="ru">Вести</title>
+  </programme>
+  <programme start="20260615062400 +0300" stop="20260615063800 +0300" channel="russia24">
+    <title lang="ru">Экономика</title>
+  </programme>
+  <programme start="20260615063100 +0300" stop="20260615063500 +0300" channel="russia24">
+    <title lang="ru">Спорт</title>
+  </programme>
+  <programme start="20260615063500 +0300" stop="20260615063900 +0300" channel="russia24">
+    <title lang="ru">Погода 24</title>
   </programme>
   <programme start="20260615063800 +0300" stop="20260615070000 +0300" channel="russia24">
     <title lang="ru">5-я студия</title>
   </programme>
+  <programme start="20260615063900 +0300" stop="20260615064000 +0300" channel="russia24">
+    <title lang="ru">Погода 24</title>
+  </programme>
   <programme start="20260615063900 +0300" stop="20260615070000 +0300" channel="russia24">
     <title lang="ru">В центре Азии</title>
+  </programme>
+  <programme start="20260615064000 +0300" stop="20260615064500 +0300" channel="russia24">
+    <title lang="ru">Вести</title>
   </programme>
   <programme start="20260615064500 +0300" stop="20260615070000 +0300" channel="russia24">
     <title lang="ru">Экономика</title>
@@ -5618,26 +6299,8 @@
   <programme start="20260615230000 +0300" stop="20260616000000 +0300" channel="russia24">
     <title lang="ru">Вести с Марией Петрашко</title>
   </programme>
-  <programme start="20260615060000 +0300" stop="20260615090000 +0300" channel="dozhd">
-    <title lang="ru">Утреннее вещание</title>
-  </programme>
-  <programme start="20260615090000 +0300" stop="20260615120000 +0300" channel="dozhd">
-    <title lang="ru">Утренние программы</title>
-  </programme>
-  <programme start="20260615120000 +0300" stop="20260615150000 +0300" channel="dozhd">
-    <title lang="ru">Дневной эфир</title>
-  </programme>
-  <programme start="20260615150000 +0300" stop="20260615180000 +0300" channel="dozhd">
-    <title lang="ru">Дневные программы</title>
-  </programme>
-  <programme start="20260615180000 +0300" stop="20260615200000 +0300" channel="dozhd">
-    <title lang="ru">Вечерние новости</title>
-  </programme>
-  <programme start="20260615200000 +0300" stop="20260615220000 +0300" channel="dozhd">
-    <title lang="ru">Прайм-тайм</title>
-  </programme>
-  <programme start="20260615220000 +0300" stop="20260615235900 +0300" channel="dozhd">
-    <title lang="ru">Ночное вещание</title>
+  <programme start="20260615045000 +0300" stop="20260615055000 +0300" channel="dozhd">
+    <title lang="ru">Настроение на Дожде</title>
   </programme>
   <programme start="20260615060000 +0300" stop="20260615090000 +0300" channel="mts_tv">
     <title lang="ru">Утреннее вещание</title>
@@ -5659,6 +6322,15 @@
   </programme>
   <programme start="20260615220000 +0300" stop="20260615235900 +0300" channel="mts_tv">
     <title lang="ru">Ночное вещание</title>
+  </programme>
+  <programme start="20260615050000 +0300" stop="20260615053500 +0300" channel="tbk">
+    <title lang="ru">Новости [16+]</title>
+  </programme>
+  <programme start="20260615053500 +0300" stop="20260615060000 +0300" channel="tbk">
+    <title lang="ru">Спецрепортаж [12+]</title>
+  </programme>
+  <programme start="20260615060000 +0300" stop="20260615063000 +0300" channel="tbk">
+    <title lang="ru">Утреннее вещание [16+]</title>
   </programme>
   <programme start="20260615063000 +0300" stop="20260615070000 +0300" channel="tbk">
     <title lang="ru">Утреннее вещание [16+]</title>
@@ -5846,26 +6518,11 @@
   <programme start="20260615234500 +0300" stop="20260616000000 +0300" channel="tbk">
     <title lang="ru">Московский патруль [16+]</title>
   </programme>
-  <programme start="20260615060000 +0300" stop="20260615090000 +0300" channel="rtvi">
-    <title lang="ru">Утреннее вещание</title>
+  <programme start="20260615043000 +0300" stop="20260615053000 +0300" channel="rtvi">
+    <title lang="ru">Дробышевский +</title>
   </programme>
-  <programme start="20260615090000 +0300" stop="20260615120000 +0300" channel="rtvi">
-    <title lang="ru">Утренние программы</title>
-  </programme>
-  <programme start="20260615120000 +0300" stop="20260615150000 +0300" channel="rtvi">
-    <title lang="ru">Дневной эфир</title>
-  </programme>
-  <programme start="20260615150000 +0300" stop="20260615180000 +0300" channel="rtvi">
-    <title lang="ru">Дневные программы</title>
-  </programme>
-  <programme start="20260615180000 +0300" stop="20260615200000 +0300" channel="rtvi">
-    <title lang="ru">Вечерние новости</title>
-  </programme>
-  <programme start="20260615200000 +0300" stop="20260615220000 +0300" channel="rtvi">
-    <title lang="ru">Прайм-тайм</title>
-  </programme>
-  <programme start="20260615220000 +0300" stop="20260615235900 +0300" channel="rtvi">
-    <title lang="ru">Ночное вещание</title>
+  <programme start="20260615042000 +0300" stop="20260615055500 +0300" channel="tbkino">
+    <title lang="ru">Нация убийц [18+]</title>
   </programme>
   <programme start="20260615055500 +0300" stop="20260615073500 +0300" channel="tbkino">
     <title lang="ru">Ворон [18+]</title>
@@ -5896,6 +6553,30 @@
   </programme>
   <programme start="20260615222500 +0300" stop="20260616003000 +0300" channel="tbkino">
     <title lang="ru">Бумер [18+]</title>
+  </programme>
+  <programme start="20260615043500 +0300" stop="20260615053500 +0300" channel="euronews">
+    <title lang="ru">Документальный фильм о России [12+]</title>
+  </programme>
+  <programme start="20260615050000 +0300" stop="20260615050500 +0300" channel="euronews">
+    <title lang="ru">Europa im blickpunkt</title>
+  </programme>
+  <programme start="20260615050500 +0300" stop="20260615052900 +0300" channel="euronews">
+    <title lang="ru">News</title>
+  </programme>
+  <programme start="20260615052900 +0300" stop="20260615053400 +0300" channel="euronews">
+    <title lang="ru">Europa im blickpunkt</title>
+  </programme>
+  <programme start="20260615053400 +0300" stop="20260615060000 +0300" channel="euronews">
+    <title lang="ru">News</title>
+  </programme>
+  <programme start="20260615060000 +0300" stop="20260615060500 +0300" channel="euronews">
+    <title lang="ru">Europa im blickpunkt</title>
+  </programme>
+  <programme start="20260615060500 +0300" stop="20260615063000 +0300" channel="euronews">
+    <title lang="ru">News</title>
+  </programme>
+  <programme start="20260615063000 +0300" stop="20260615063800 +0300" channel="euronews">
+    <title lang="ru">Europa im blickpunkt</title>
   </programme>
   <programme start="20260615063800 +0300" stop="20260615070000 +0300" channel="euronews">
     <title lang="ru">News</title>
@@ -5948,8 +6629,41 @@
   <programme start="20260615234600 +0300" stop="20260616000000 +0300" channel="euronews">
     <title lang="ru">News</title>
   </programme>
+  <programme start="20260615041634 +0300" stop="20260615050513 +0300" channel="natgeo">
+    <title lang="ru">Mega-Bauwerke (с.14)</title>
+  </programme>
+  <programme start="20260615042500 +0300" stop="20260615051000 +0300" channel="natgeo">
+    <title lang="ru">Engineering by Catastrophe (За пределами орбиты)</title>
+  </programme>
+  <programme start="20260615045046 +0300" stop="20260615053429 +0300" channel="natgeo">
+    <title lang="ru">Dr. Ks tierische Notaufnahme (с.2)</title>
+  </programme>
+  <programme start="20260615045500 +0300" stop="20260615055500 +0300" channel="natgeo">
+    <title lang="ru">Тайны осьминогов, 2 с. Блестящая тактика</title>
+  </programme>
+  <programme start="20260615050000 +0300" stop="20260615060000 +0300" channel="natgeo">
+    <title lang="ru">Giganți ai ingineriei - Giganți de coastă</title>
+  </programme>
+  <programme start="20260615050513 +0300" stop="20260615055651 +0300" channel="natgeo">
+    <title lang="ru">Mega-Bauwerke (с.18)</title>
+  </programme>
+  <programme start="20260615051000 +0300" stop="20260615060000 +0300" channel="natgeo">
+    <title lang="ru">Engineering by Catastrophe (В земных недрах)</title>
+  </programme>
+  <programme start="20260615053429 +0300" stop="20260615063415 +0300" channel="natgeo">
+    <title lang="ru">Dr. Ks tierische Notaufnahme (с.5)</title>
+  </programme>
+  <programme start="20260615055651 +0300" stop="20260615064925 +0300" channel="natgeo">
+    <title lang="ru">Mega-Bauwerke (с.2)</title>
+  </programme>
+  <programme start="20260615060000 +0300" stop="20260615062500 +0300" channel="natgeo">
+    <title lang="ru">Научные глупости (Страусы и картинг)</title>
+  </programme>
   <programme start="20260615060000 +0300" stop="20260615070000 +0300" channel="natgeo">
     <title lang="ru">Dezastre în aer - Date eronate</title>
+  </programme>
+  <programme start="20260615062500 +0300" stop="20260615064500 +0300" channel="natgeo">
+    <title lang="ru">Научные глупости (Газонокосилки и пиньяты)</title>
   </programme>
   <programme start="20260615063415 +0300" stop="20260615072001 +0300" channel="natgeo">
     <title lang="ru">Der unglaubliche Dr. Pol (с.5)</title>
@@ -6185,6 +6899,24 @@
   <programme start="20260615233432 +0300" stop="20260616002245 +0300" channel="natgeo">
     <title lang="ru">Der unglaubliche Dr. Pol (с.3)</title>
   </programme>
+  <programme start="20260615041500 +0300" stop="20260615051000 +0300" channel="discov">
+    <title lang="ru">Rekruci (с.6)</title>
+  </programme>
+  <programme start="20260615042400 +0300" stop="20260615051200 +0300" channel="discov">
+    <title lang="ru">Comori arhitecturale recuperate Sezonul 19 - Episodul 7</title>
+  </programme>
+  <programme start="20260615050000 +0300" stop="20260615060000 +0300" channel="discov">
+    <title lang="ru">Monstrul American Sezonul 2 - Episodul 10</title>
+  </programme>
+  <programme start="20260615050000 +0300" stop="20260615060000 +0300" channel="discov">
+    <title lang="ru">Американский монстр (Все для тебя)</title>
+  </programme>
+  <programme start="20260615051000 +0300" stop="20260615060500 +0300" channel="discov">
+    <title lang="ru">Polowanie na Hitlera (с.9)</title>
+  </programme>
+  <programme start="20260615051200 +0300" stop="20260615060000 +0300" channel="discov">
+    <title lang="ru">Comori arhitecturale recuperate Sezonul 19 - Episodul 8</title>
+  </programme>
   <programme start="20260615060000 +0300" stop="20260615070000 +0300" channel="discov">
     <title lang="ru">Monstrul American Sezonul 3 - Episodul 3</title>
   </programme>
@@ -6398,6 +7130,126 @@
   <programme start="20260615230000 +0300" stop="20260616000000 +0300" channel="discov">
     <title lang="ru">Legături toxice Sezonul 1 - Episodul 1</title>
   </programme>
+  <programme start="20260615020000 +0300" stop="20260615060000 +0300" channel="ani_com">
+    <title lang="ru">Ми-Ми-Мишки [0+]</title>
+  </programme>
+  <programme start="20260615020000 +0300" stop="20260615060000 +0300" channel="ani_com">
+    <title lang="ru">Простоквашино</title>
+  </programme>
+  <programme start="20260615020000 +0300" stop="20260615060000 +0300" channel="ani_com">
+    <title lang="ru">Лео и Тиг</title>
+  </programme>
+  <programme start="20260615030000 +0300" stop="20260615060000 +0300" channel="ani_com">
+    <title lang="ru">Мультфильмы non-stop</title>
+  </programme>
+  <programme start="20260615032641 +0300" stop="20260615051111 +0300" channel="ani_com">
+    <title lang="ru">Лего Фильм: Бэтмен</title>
+  </programme>
+  <programme start="20260615040000 +0300" stop="20260615060000 +0300" channel="ani_com">
+    <title lang="ru">Мультконцерт [0+]</title>
+  </programme>
+  <programme start="20260615041311 +0300" stop="20260615060248 +0300" channel="ani_com">
+    <title lang="ru">Митчеллы против машин</title>
+  </programme>
+  <programme start="20260615041746 +0300" stop="20260615051820 +0300" channel="ani_com">
+    <title lang="ru">Снежная королева</title>
+  </programme>
+  <programme start="20260615043536 +0300" stop="20260615060341 +0300" channel="ani_com">
+    <title lang="ru">Тайна красной планеты</title>
+  </programme>
+  <programme start="20260615044209 +0300" stop="20260615050137 +0300" channel="ani_com">
+    <title lang="ru">Похитители красок (1959)</title>
+  </programme>
+  <programme start="20260615044300 +0300" stop="20260615050700 +0300" channel="ani_com">
+    <title lang="ru">Губка Боб – 180 с.</title>
+  </programme>
+  <programme start="20260615044629 +0300" stop="20260615055050 +0300" channel="ani_com">
+    <title lang="ru">Т/с «1959 год - Приключения Буратино (Д.Бабиченко)»</title>
+  </programme>
+  <programme start="20260615045506 +0300" stop="20260615050439 +0300" channel="ani_com">
+    <title lang="ru">Х/ф «Ну, погоди! Эпизод 1»</title>
+  </programme>
+  <programme start="20260615045514 +0300" stop="20260615050739 +0300" channel="ani_com">
+    <title lang="ru">Поймай Тинипин! Королевство эмоций</title>
+  </programme>
+  <programme start="20260615050137 +0300" stop="20260615051733 +0300" channel="ani_com">
+    <title lang="ru">Я жду птенца (1966)</title>
+  </programme>
+  <programme start="20260615050439 +0300" stop="20260615051404 +0300" channel="ani_com">
+    <title lang="ru">Х/ф «Песенка мышонка»</title>
+  </programme>
+  <programme start="20260615050700 +0300" stop="20260615052700 +0300" channel="ani_com">
+    <title lang="ru">Человек-паук – 62 с.</title>
+  </programme>
+  <programme start="20260615050739 +0300" stop="20260615052002 +0300" channel="ani_com">
+    <title lang="ru">Поймай Тинипин! Королевство эмоций</title>
+  </programme>
+  <programme start="20260615051111 +0300" stop="20260615065115 +0300" channel="ani_com">
+    <title lang="ru">История игрушек 4</title>
+  </programme>
+  <programme start="20260615051404 +0300" stop="20260615052343 +0300" channel="ani_com">
+    <title lang="ru">Х/ф «Ну, погоди! Эпизод 6»</title>
+  </programme>
+  <programme start="20260615051733 +0300" stop="20260615052753 +0300" channel="ani_com">
+    <title lang="ru">Последние волшебники (1979)</title>
+  </programme>
+  <programme start="20260615051820 +0300" stop="20260615053834 +0300" channel="ani_com">
+    <title lang="ru">М/ф «В яранге горит огонь»</title>
+  </programme>
+  <programme start="20260615052002 +0300" stop="20260615053225 +0300" channel="ani_com">
+    <title lang="ru">Поймай Тинипин! Королевство эмоций</title>
+  </programme>
+  <programme start="20260615052343 +0300" stop="20260615054429 +0300" channel="ani_com">
+    <title lang="ru">Х/ф «Когда зажигаются елки»</title>
+  </programme>
+  <programme start="20260615052700 +0300" stop="20260615054900 +0300" channel="ani_com">
+    <title lang="ru">Аллдин – 8 с.</title>
+  </programme>
+  <programme start="20260615052753 +0300" stop="20260615053216 +0300" channel="ani_com">
+    <title lang="ru">Поцелуй (1989)</title>
+  </programme>
+  <programme start="20260615053216 +0300" stop="20260615053941 +0300" channel="ani_com">
+    <title lang="ru">Как аукнется (1982)</title>
+  </programme>
+  <programme start="20260615053225 +0300" stop="20260615054449 +0300" channel="ani_com">
+    <title lang="ru">Поймай Тинипин! Королевство эмоций</title>
+  </programme>
+  <programme start="20260615053834 +0300" stop="20260615054905 +0300" channel="ani_com">
+    <title lang="ru">Мартынко</title>
+  </programme>
+  <programme start="20260615053941 +0300" stop="20260615055741 +0300" channel="ani_com">
+    <title lang="ru">Сказка о громком барабане (1987)</title>
+  </programme>
+  <programme start="20260615054429 +0300" stop="20260615055431 +0300" channel="ani_com">
+    <title lang="ru">Х/ф «Солнечный Каравай»</title>
+  </programme>
+  <programme start="20260615054449 +0300" stop="20260615055714 +0300" channel="ani_com">
+    <title lang="ru">Поймай Тинипин! Королевство эмоций</title>
+  </programme>
+  <programme start="20260615054900 +0300" stop="20260615061100 +0300" channel="ani_com">
+    <title lang="ru">Чип и Дейл – Загнанных собак меняют</title>
+  </programme>
+  <programme start="20260615054905 +0300" stop="20260615055807 +0300" channel="ani_com">
+    <title lang="ru">М/ф «А что ты умеешь?»</title>
+  </programme>
+  <programme start="20260615055050 +0300" stop="20260615055827 +0300" channel="ani_com">
+    <title lang="ru">Т/с «1976 год - Икар и мудрецы (Ф.Хитрук)»</title>
+  </programme>
+  <programme start="20260615055431 +0300" stop="20260615060146 +0300" channel="ani_com">
+    <title lang="ru">Х/ф «Обезьянки и грабители»</title>
+  </programme>
+  <programme start="20260615055714 +0300" stop="20260615060938 +0300" channel="ani_com">
+    <title lang="ru">Поймай Тинипин! Королевство эмоций</title>
+  </programme>
+  <programme start="20260615055741 +0300" stop="20260615060607 +0300" channel="ani_com">
+    <title lang="ru">Осенние корабли (1982)</title>
+  </programme>
+  <programme start="20260615055807 +0300" stop="20260615062823 +0300" channel="ani_com">
+    <title lang="ru">М/ф «Каштанка»</title>
+  </programme>
+  <programme start="20260615055827 +0300" stop="20260615060333 +0300" channel="ani_com">
+    <title lang="ru">Т/с «1941 год - Били! Бьем! Будем бить! (Д.Бабиченко)»</title>
+  </programme>
   <programme start="20260615060000 +0300" stop="20260615071500 +0300" channel="ani_com">
     <title lang="ru">Мини-мишки [0+]</title>
   </programme>
@@ -6413,14 +7265,71 @@
   <programme start="20260615060000 +0300" stop="20260615090000 +0300" channel="ani_com">
     <title lang="ru">Мультфильмы non-stop</title>
   </programme>
+  <programme start="20260615060146 +0300" stop="20260615061142 +0300" channel="ani_com">
+    <title lang="ru">Х/ф «Возвращайся Капитошка»</title>
+  </programme>
   <programme start="20260615060248 +0300" stop="20260615074220 +0300" channel="ani_com">
     <title lang="ru">Черепашки-ниндзя: Погром мутантов</title>
+  </programme>
+  <programme start="20260615060333 +0300" stop="20260615061156 +0300" channel="ani_com">
+    <title lang="ru">Т/с «1947 год - Белое золото. Хлопок (А.Иванов)»</title>
   </programme>
   <programme start="20260615060341 +0300" stop="20260615073822 +0300" channel="ani_com">
     <title lang="ru">Гадкий я</title>
   </programme>
+  <programme start="20260615060607 +0300" stop="20260615061607 +0300" channel="ani_com">
+    <title lang="ru">Ромка, Фомка и Артос: Фильм первый (1989)</title>
+  </programme>
+  <programme start="20260615060938 +0300" stop="20260615062159 +0300" channel="ani_com">
+    <title lang="ru">Поймай Тинипин! Королевство эмоций</title>
+  </programme>
+  <programme start="20260615061100 +0300" stop="20260615063200 +0300" channel="ani_com">
+    <title lang="ru">Великий Человек-паук – 8 с.</title>
+  </programme>
+  <programme start="20260615061142 +0300" stop="20260615062049 +0300" channel="ani_com">
+    <title lang="ru">Х/ф «Ну, погоди! Эпизод 12»</title>
+  </programme>
+  <programme start="20260615061156 +0300" stop="20260615062517 +0300" channel="ani_com">
+    <title lang="ru">Т/с «2016 год - Джонни Бони Бо (Е.Скворцова)»</title>
+  </programme>
+  <programme start="20260615061607 +0300" stop="20260615062605 +0300" channel="ani_com">
+    <title lang="ru">Ромка, Фомка и Артос: Фильм второй (1989)</title>
+  </programme>
+  <programme start="20260615062049 +0300" stop="20260615063024 +0300" channel="ani_com">
+    <title lang="ru">Х/ф «Ну, погоди! Эпизод 3»</title>
+  </programme>
+  <programme start="20260615062159 +0300" stop="20260615063423 +0300" channel="ani_com">
+    <title lang="ru">Поймай Тинипин! Королевство эмоций</title>
+  </programme>
+  <programme start="20260615062517 +0300" stop="20260615062633 +0300" channel="ani_com">
+    <title lang="ru">Т/с 1973 год - Умельцы «Фитиль» №129 (С.Алимов)</title>
+  </programme>
+  <programme start="20260615062605 +0300" stop="20260615063605 +0300" channel="ani_com">
+    <title lang="ru">Ромка, Фомка и Артос: Фильм третий (1989)</title>
+  </programme>
+  <programme start="20260615062633 +0300" stop="20260615063549 +0300" channel="ani_com">
+    <title lang="ru">Т/с «1967 год - Гора динозавров (Р.Страутмане)»</title>
+  </programme>
+  <programme start="20260615062823 +0300" stop="20260615063824 +0300" channel="ani_com">
+    <title lang="ru">М/ф «Медвежуть»</title>
+  </programme>
+  <programme start="20260615063024 +0300" stop="20260615064752 +0300" channel="ani_com">
+    <title lang="ru">Х/ф «Казаки (Мультсериал) Эпизод 7»</title>
+  </programme>
   <programme start="20260615063200 +0300" stop="20260615065400 +0300" channel="ani_com">
     <title lang="ru">Новые приключения Винни-Пуха – 3 с.</title>
+  </programme>
+  <programme start="20260615063423 +0300" stop="20260615064648 +0300" channel="ani_com">
+    <title lang="ru">Поймай Тинипин! Королевство эмоций</title>
+  </programme>
+  <programme start="20260615063549 +0300" stop="20260615064548 +0300" channel="ani_com">
+    <title lang="ru">Т/с «1958 год - Мы за солнышком идем (В.Дегтярёв)»</title>
+  </programme>
+  <programme start="20260615063605 +0300" stop="20260615064536 +0300" channel="ani_com">
+    <title lang="ru">Остров (1973)</title>
+  </programme>
+  <programme start="20260615063824 +0300" stop="20260615064823 +0300" channel="ani_com">
+    <title lang="ru">Будет ласковый дождь</title>
   </programme>
   <programme start="20260615064536 +0300" stop="20260615065548 +0300" channel="ani_com">
     <title lang="ru">Кнопочки и человечки (1980)</title>
@@ -7943,6 +8852,75 @@
   <programme start="20260615235549 +0300" stop="20260616000234 +0300" channel="ani_com">
     <title lang="ru">Весёлая карусель №21 (1990)</title>
   </programme>
+  <programme start="20260615044000 +0300" stop="20260615054000 +0300" channel="nickel">
+    <title lang="ru">Губка Боб Квадратные Штаны, 173 с. Сквидалия / Гонки на разрушение</title>
+  </programme>
+  <programme start="20260615044500 +0300" stop="20260615055000 +0300" channel="nickel">
+    <title lang="ru">Дора 4. 9 с. Дора в стране русалок / Сюрприз для русалки</title>
+  </programme>
+  <programme start="20260615044530 +0300" stop="20260615050756 +0300" channel="nickel">
+    <title lang="ru">DORA</title>
+  </programme>
+  <programme start="20260615045500 +0300" stop="20260615052000 +0300" channel="nickel">
+    <title lang="ru">Casa Loud Sezonul 8 - Episodul 807</title>
+  </programme>
+  <programme start="20260615045505 +0300" stop="20260615051610 +0300" channel="nickel">
+    <title lang="ru">iCarly (с.3)</title>
+  </programme>
+  <programme start="20260615045700 +0300" stop="20260615052400 +0300" channel="nickel">
+    <title lang="ru">Мой шумный дом. Кусочек Трансильвании / Название - Греция.</title>
+  </programme>
+  <programme start="20260615050756 +0300" stop="20260615052910 +0300" channel="nickel">
+    <title lang="ru">Blaze and the Monster Machines (с.11)</title>
+  </programme>
+  <programme start="20260615051610 +0300" stop="20260615053740 +0300" channel="nickel">
+    <title lang="ru">SpongeBob Schwammkopf (с.13)</title>
+  </programme>
+  <programme start="20260615052000 +0300" stop="20260615054000 +0300" channel="nickel">
+    <title lang="ru">Casa Loud Sezonul 8 - Episodul 808</title>
+  </programme>
+  <programme start="20260615052400 +0300" stop="20260615054900 +0300" channel="nickel">
+    <title lang="ru">Мой шумный дом. Кара небесная / Запах денег.</title>
+  </programme>
+  <programme start="20260615052910 +0300" stop="20260615055150 +0300" channel="nickel">
+    <title lang="ru">Mr. Crocodile (с.6)</title>
+  </programme>
+  <programme start="20260615053740 +0300" stop="20260615060000 +0300" channel="nickel">
+    <title lang="ru">SpongeBob Schwammkopf (с.3)</title>
+  </programme>
+  <programme start="20260615054000 +0300" stop="20260615060000 +0300" channel="nickel">
+    <title lang="ru">Casa Loud Sezonul 7 - Episodul 718</title>
+  </programme>
+  <programme start="20260615054900 +0300" stop="20260615060000 +0300" channel="nickel">
+    <title lang="ru">Мой шумный дом. Заключим сделку/Блюдо-мечта.</title>
+  </programme>
+  <programme start="20260615055000 +0300" stop="20260615063500 +0300" channel="nickel">
+    <title lang="ru">Барбапапа и семья!</title>
+  </programme>
+  <programme start="20260615055150 +0300" stop="20260615061434 +0300" channel="nickel">
+    <title lang="ru">BARBAPAPA - One Big Happy Family!</title>
+  </programme>
+  <programme start="20260615060000 +0300" stop="20260615062300 +0300" channel="nickel">
+    <title lang="ru">Губка Боб Квадратные Штаны. Солёная губка / У компа была собака.</title>
+  </programme>
+  <programme start="20260615060000 +0300" stop="20260615061251 +0300" channel="nickel">
+    <title lang="ru">SpongeBob Schwammkopf (с.23)</title>
+  </programme>
+  <programme start="20260615060000 +0300" stop="20260615062500 +0300" channel="nickel">
+    <title lang="ru">SpongeBob Pantaloni Pătrați Sezonul 13 - Episodul 281</title>
+  </programme>
+  <programme start="20260615061251 +0300" stop="20260615063531 +0300" channel="nickel">
+    <title lang="ru">SpongeBob Schwammkopf (с.8)</title>
+  </programme>
+  <programme start="20260615061434 +0300" stop="20260615063758 +0300" channel="nickel">
+    <title lang="ru">BARBAPAPA - One Big Happy Family!</title>
+  </programme>
+  <programme start="20260615062300 +0300" stop="20260615064700 +0300" channel="nickel">
+    <title lang="ru">Губка Боб Квадратные Штаны. Древесный беспредел / Зуб на зуб не приходится.</title>
+  </programme>
+  <programme start="20260615062500 +0300" stop="20260615064500 +0300" channel="nickel">
+    <title lang="ru">SpongeBob Pantaloni Pătrați Sezonul 13 - Episodul 282</title>
+  </programme>
   <programme start="20260615063500 +0300" stop="20260615070000 +0300" channel="nickel">
     <title lang="ru">Тим Рекс в космосе</title>
   </programme>
@@ -8681,6 +9659,9 @@
   <programme start="20260615220000 +0300" stop="20260615235900 +0300" channel="boomerang">
     <title lang="ru">Ночное вещание</title>
   </programme>
+  <programme start="20260615050000 +0300" stop="20260615060000 +0300" channel="sport1">
+    <title lang="ru">Teleshopping Schweiz.</title>
+  </programme>
   <programme start="20260615060000 +0300" stop="20260615070000 +0300" channel="sport1">
     <title lang="ru">Teleshopping Schweiz.</title>
   </programme>
@@ -8776,6 +9757,12 @@
   </programme>
   <programme start="20260615233000 +0300" stop="20260616000000 +0300" channel="sport1">
     <title lang="ru">Axel! will's wissen (Echte Männer tanzen nicht). S1,Ep9.</title>
+  </programme>
+  <programme start="20260615035000 +0300" stop="20260615054500 +0300" channel="football">
+    <title lang="ru">Пескара - Сампдория. Итальянская Серия Б. Сезон 25/26 [12+]</title>
+  </programme>
+  <programme start="20260615041000 +0300" stop="20260615060000 +0300" channel="football">
+    <title lang="ru">Чемпионат мира-2026. Швеция - Тунис. Трансляция из Мексики</title>
   </programme>
   <programme start="20260615054500 +0300" stop="20260615074000 +0300" channel="football">
     <title lang="ru">Бейцзинь Гоань - Далянь. Китайская Суперлига. Сезон 26/27 [12+]</title>
